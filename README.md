@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 - 🔭 Sou desenvolvedor web e utilizo o .NET Framework como minha principal ferramenta de trabalho.
 - 🌱 No momento, estou me dedicando aos estudos aprofundados de Node.js e .NET Core.
