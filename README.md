@@ -5,7 +5,6 @@ Sou Jackson Torres da Silva, um desenvolvedor web apaixonado por tecnologia e in
 - 🧑‍💻 **Especialidade:** Focado no desenvolvimento backend com C# e .NET Core, criando soluções robustas e escaláveis.
 - 🌱 **Em Aprendizado:** Atualmente me aprofundando em Node.js e .NET Core, sempre em busca de expandir meus conhecimentos e habilidades.
 - 💼 **Objetivo:** Crescer como desenvolvedor full stack, integrando o conhecimento de frontend e backend para entregar projetos completos e de alta performance.
-- 📞 **Contato:** (21) 98620-8059
 - 📧 **Contato:** [jackson.torres.1000@gmail.com](mailto:jackson.torres.1000@gmail.com?subject=Contato%20via%20GitHub) | 📞 (21) 98620-8059
 
 ---
